@@ -1,6 +1,6 @@
 {
   "name": "sysusage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic system usage monitor",
   "main": "lib/index.js",
   "scripts": {
@@ -13,6 +13,10 @@
   },
   "author": "David Csirmaz",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/csimi/sysusage.git"
+  },
   "devDependencies": {
     "@csimi/eslint-config": "^4.0.1",
     "@types/node": "^16.18.121",
