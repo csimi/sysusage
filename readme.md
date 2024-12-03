@@ -1,4 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/sysusage.svg?logo=npm)](https://www.npmjs.com/package/sysusage)
+[![build status](https://github.com/csimi/sysusage/workflows/build/badge.svg)](https://github.com/csimi/sysusage/actions)
 
 # About
 
