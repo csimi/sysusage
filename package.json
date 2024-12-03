@@ -1,0 +1,27 @@
+{
+  "name": "sysusage",
+  "version": "1.0.0",
+  "description": "Basic system usage monitor",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node bin/sysusage.js",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "lint": "eslint -v && eslint ."
+  },
+  "author": "David Csirmaz",
+  "license": "ISC",
+  "devDependencies": {
+    "@csimi/eslint-config": "^4.0.1",
+    "eslint": "^8.57.1"
+  },
+  "bin": "bin/sysusage.js",
+  "files": [
+    "lib/**",
+    "bin/**"
+  ],
+  "keywords": [
+    "cpu",
+    "memory",
+    "usage"
+  ]
+}
